@@ -14,6 +14,6 @@ A simple Notes App built using MERN Stack (MongoDB, Express, Node.js, HTML, CSS,
 - Database: MongoDB Atlas
 
 ## Run Locally
-cd backend
-npm install
-node server.js
+- cd backend
+- npm install
+- node server.js
