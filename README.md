@@ -20,3 +20,4 @@ A simple Notes App built using MERN Stack (MongoDB, Express, Node.js, HTML, CSS,
 
 ## Some screenshots
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/84b1a2e0-e529-4775-9184-9f4a280e2e0a" />
+<img width="1908" height="1041" alt="image" src="https://github.com/user-attachments/assets/76894890-7b81-4d28-980b-7fcdd448c405" />
